@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelInteropLibrary", "ExcelInteropLibrary.csproj", "{EAC63C92-72D1-4032-A5D1-BBBA5483FB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC63C92-72D1-4032-A5D1-BBBA5483FB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC63C92-72D1-4032-A5D1-BBBA5483FB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC63C92-72D1-4032-A5D1-BBBA5483FB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC63C92-72D1-4032-A5D1-BBBA5483FB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62AD16DE-2878-440E-977C-49D3370123BC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,89 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.vsix
+*.log
+*.user
+*.userosscache
+*.suo
+*.tmp
+*.csproj.user
+*.cache
+*.csproj.vspscc
+.vscode/
+.vscode/settings.json
+
+# Visual Studio 2019/2022 cache/options directory
+.vscode/
+.vscode/*
+.vs/
+.vs/*
+
+# Auto-generated files
+Generated\
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folders created by Windows
+$RECYCLE.BIN/
+
+# Dependency directories
+packages/
+node_modules/
+
+# Office and Excel-related files
+*.xlsb
+*.xlsm
+*.xlsx
+*.xltx
+*.xltm
+
+# NuGet packages
+*.nupkg
+# Include if you have multiple .nupkg files you want to ignore
+*.snupkg
+
+# DotNet test results
+TestResults/
+
+# Logs and database files
+*.log
+*.ldf
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dbmdl
+
+# JetBrains Rider specific
+.idea/
+.idea/*
+
+# Rider log directory
+.idea/.idea.VCS
+
+# Rider settings
+.idea/.idea_settings
+
+# macOS specific files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
